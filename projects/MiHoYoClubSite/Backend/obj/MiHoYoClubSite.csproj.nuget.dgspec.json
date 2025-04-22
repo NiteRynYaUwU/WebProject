@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C++\\C#\\projects\\webproject\\backend\\MiHoYoClubSite.csproj": {}
+    "C:\\C++\\C#\\projects\\webproject\\Backend\\MiHoYoClubSite.csproj": {}
   },
   "projects": {
-    "C:\\C++\\C#\\projects\\webproject\\backend\\MiHoYoClubSite.csproj": {
+    "C:\\C++\\C#\\projects\\webproject\\Backend\\MiHoYoClubSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C++\\C#\\projects\\webproject\\backend\\MiHoYoClubSite.csproj",
+        "projectUniqueName": "C:\\C++\\C#\\projects\\webproject\\Backend\\MiHoYoClubSite.csproj",
         "projectName": "MiHoYoClubSite",
-        "projectPath": "C:\\C++\\C#\\projects\\webproject\\backend\\MiHoYoClubSite.csproj",
+        "projectPath": "C:\\C++\\C#\\projects\\webproject\\Backend\\MiHoYoClubSite.csproj",
         "packagesPath": "C:\\Users\\zhu11\\.nuget\\packages\\",
-        "outputPath": "C:\\C++\\C#\\projects\\webproject\\backend\\obj\\",
+        "outputPath": "C:\\C++\\C#\\projects\\webproject\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhu11\\AppData\\Roaming\\NuGet\\NuGet.Config"

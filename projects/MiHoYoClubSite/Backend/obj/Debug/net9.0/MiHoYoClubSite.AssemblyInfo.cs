@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiHoYoClubSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44316c0044b09a8efb09d03c937d5d4db6f3b4f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f92340c1f86525af892c8a0e4738940a7b966fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiHoYoClubSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiHoYoClubSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
