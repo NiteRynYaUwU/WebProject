@@ -1,0 +1,7 @@
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.csproj.AssemblyReference.cache
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.AssemblyInfoInputs.cache
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.AssemblyInfo.cs
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.csproj.CoreCompileInputs.cache
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.MvcApplicationPartsAssemblyInfo.cache
+C:\C++\C#\projects\webproject\backend\obj\Debug\net9.0\MiHoYoClubSite.sourcelink.json

@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.html">Home</a>
+        <a href="cart.html">Cart</a>
+        <a href="orders.html">Order History</a>
+        <a href="login.html">Login</a>
+        <a href="signup.html">Sign Up</a>
+    </div>
+    <div class="product-detail">
+        <img src="phone.jpg" alt="Product Image" style="width:300px;">
+        <h2>Smartphone</h2>
+        <p>$499</p>
+        <p>Latest model with amazing features.</p>
+        <button onclick="addToCart()">Add to Cart</button>
+    </div>
+    <script>
+        function addToCart() {
+            alert("Added to cart!");
+            // Here you would normally call the backend API
+        }
+    </script>
+</body>
+</html>

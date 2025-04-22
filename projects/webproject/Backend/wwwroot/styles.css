@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: linear-gradient(135deg, orange, yellow);
+    color: #333;
+}
+.navbar {
+    background-color: #ffa500;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+}
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.hero {
+    text-align: center;
+    padding: 50px;
+}
+.products {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: white;
+    cursor: pointer;
+}
+.product img {
+    width: 100%;
+    height: auto;
+}
